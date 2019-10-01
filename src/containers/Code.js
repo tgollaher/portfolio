@@ -148,7 +148,7 @@ class Code extends Component {
         </div>
         <hr />
         <div>
-          <CenteredHeader>Recent work:</CenteredHeader>
+          <CenteredHeader>Recent Product/Development work:</CenteredHeader>
           <PortRow>
             <a href="http://sole-search.surge.sh/" target="_blank">
               <CodeThumbnail src={require("../assets/sole_search.png")} />
@@ -169,15 +169,15 @@ class Code extends Component {
                 </PortButtonContainer>
               </PortTitleContainer>
               <PortDescription>
-                My most recent product design project, Sole Search was a soley front-end designed mock up that I worked on with two UX designers, implementing A/B testing and user feedback
-                to achieve this design and interface. The mockup has full filter fuctionality and was built out in the front end using React.js and flexbox CSS for styling. 
+                My most recent product design project, Sole Search was a protoype front-end designed mock up that I worked on with three UX designers, implementing A/B testing and user feedback
+                to achieve this design and interface. The mockup has full filter fuctionality and was built out in the front end using React.js and flexbox CSS for styling.
                 
             </PortDescription>
     
               <UsedList>
                 <UsedItem>React.js</UsedItem>
                 <UsedItem>Flexbox</UsedItem>
-                <UsedItem>Zepplin</UsedItem>
+                <UsedItem>Zeplin</UsedItem>
                 <UsedItem>Sketch</UsedItem>
               </UsedList>
             </PortAllText>
@@ -255,11 +255,10 @@ class Code extends Component {
             </PortDescription>
               <UsedList>
                 <UsedItem>React.js</UsedItem>
-                <UsedItem>Redux</UsedItem>
-                <UsedItem>PostgreSQL</UsedItem>
+                <UsedItem>Ruby</UsedItem>
+                <UsedItem>Rails</UsedItem>
                 <UsedItem>CSS</UsedItem>
-                <UsedItem>Node.JS</UsedItem>
-                <UsedItem>Express</UsedItem>
+                <UsedItem>PostgreSQL</UsedItem>
               </UsedList>
             </PortAllText>
           </PortRow>

@@ -7,7 +7,7 @@ import styled from 'styled-components';
 const ProfileImage = styled.img`
   width: 12em;
   height: 12em;
-  border-radius: 50%;
+  border-radius: 35%;
 `;
 
 const ProfileTitle = styled.h1`
