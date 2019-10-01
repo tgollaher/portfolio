@@ -153,6 +153,7 @@ class Code extends Component {
             <a href="http://sole-search.surge.sh/" target="_blank">
               <CodeThumbnail src={require("../assets/sole_search.png")} />
             </a>
+            <br></br>
             <PortAllText>
               <PortTitleContainer>
                 <PortTitle>Sole Search</PortTitle>
@@ -168,8 +169,9 @@ class Code extends Component {
                 </PortButton>
                 </PortButtonContainer>
               </PortTitleContainer>
+              <br></br>
               <PortDescription>
-                My most recent product design project, Sole Search was a protoype front-end designed mock up that I worked on with three UX designers, implementing A/B testing and user feedback
+                My most recent product design project, Sole Search was a prototype front-end designed mock up that I worked on with three UX designers, implementing A/B testing and user feedback
                 to achieve this design and interface. The mockup has full filter fuctionality and was built out in the front end using React.js and flexbox CSS for styling.
                 
             </PortDescription>
@@ -189,6 +191,7 @@ class Code extends Component {
                 src={require("../assets/routine_me.png")}
               />
             </a>
+            <br></br>
             <PortAllText>
               <PortTitleContainer>
                 <PortTitle>Routine Me</PortTitle>
@@ -205,8 +208,10 @@ class Code extends Component {
                   >
                     Code
                   </PortButton>
+                
                 </PortButtonContainer>
               </PortTitleContainer>
+              <br></br>
               <PortDescription>
               This is a full-stack React and Node.js CRUD app with login and sign up functionality using React and Node.js 
               that allows you to create, update and delete your own routines and compare them to others.
@@ -227,6 +232,7 @@ class Code extends Component {
                 src={require("../assets/hackathon.png")}
               />
             </a>
+            <br></br>
             <PortAllText>
               <PortTitleContainer>
                 <PortTitle>Hack-a-manager</PortTitle>
@@ -245,6 +251,7 @@ class Code extends Component {
                   </PortButton>
                 </PortButtonContainer>
               </PortTitleContainer>
+              <br></br>
               <PortDescription>
                 For my Hackathon project at General Assembly, I spent 4 days
                 building an full-stack web app that I though would be cool for people who would want to manage their NYC meetups or events -- an tech themed event manager for
