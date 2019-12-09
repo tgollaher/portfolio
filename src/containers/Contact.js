@@ -22,10 +22,6 @@ const CommentInput = styled.textarea`
   height: 6em;
 `
 
-const EmailMe = styled.p`
-  text-align: center;
-  padding: 4%;
-`
 
 class Contact extends Component {
 
