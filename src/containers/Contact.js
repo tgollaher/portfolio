@@ -51,9 +51,6 @@ class Contact extends Component {
             <button type="submit">Submit</button>
           </form>
         </FormDiv>
-
-        <EmailMe>Or, just email me directly at <a href="mailto:tgollaher@gmail.com" target="_blank"><strong>tgollaher@gmail.com</strong></a>.</EmailMe>
-
       </div>
     );
   }
