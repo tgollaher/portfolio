@@ -253,9 +253,9 @@ class Code extends Component {
               </PortTitleContainer>
               <br></br>
               <PortDescription>
-                For my Hackathon project at General Assembly, I spent 4 days
-                building an full-stack web app that I though would be cool for people who would want to manage their NYC meetups or events -- an tech themed event manager for
-                anyone wishing to manage any events they wish to attend.  View all users, view each user's profile and
+                For a Hackathon project at General Assembly,
+                I built an full-stack web app that I though would be cool for people who would want to manage their NYC meetups or events -- a tech themed event manager for
+                anyone wishing to manage any events they wish to attend. View all users, view each user's profile and
                 information, compare and track events, and filter and search events based on matching key words.
 
                 It was built out using PostgreSQL, React, and Ruby on Rails with full authentication and backend functionality.
