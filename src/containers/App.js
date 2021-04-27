@@ -15,7 +15,7 @@ const AppDiv = styled.div`
   display: flex;
   min-height: 100vh;
   flex-direction: column;
-  font-size: 1.15em;
+  font-size: 1.20em;
 `;
 
 export const CenteredHeader = styled.h4`
