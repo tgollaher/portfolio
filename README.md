@@ -1,6 +1,6 @@
 # Trevor Gollaher
 
-#### [tgollaher.com](http://tgollaher.com)
+
 
 Hi! I'm Trevor. I'm a Product Manger and full-stack software developer based in NYC.
 
