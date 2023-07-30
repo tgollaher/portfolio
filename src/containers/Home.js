@@ -6,9 +6,9 @@ class Home extends Component {
   render() {
     return (
       <div>
-        <CenteredHeader>Hi I'm Trevor! I am a product professional</CenteredHeader>
+        <CenteredHeader>Hi I'm Trevor!</CenteredHeader>
         <p>
-          My true interests lie at bridging the gaps between business and technology with a product focus.
+        I'm passionate about creating innovative product solutions and driving impact through the cross section of business and tech. Let's explore my journey and projects together. Welcome to my site!
         </p>
       </div>
     );
