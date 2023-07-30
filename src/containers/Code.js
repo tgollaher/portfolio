@@ -138,7 +138,6 @@ class Code extends Component {
               <h5>Other:</h5>
               <ul>
                 <li>Git</li>
-                <li>Hubspot</li>
                 <li>JSON</li>
                 <li>Jira</li>
                 <li>Agile development</li>
